@@ -5,4 +5,20 @@ Distributor Role:https://goerli.etherscan.io/address/0xcEF1367618608D11fdC9130B3
 
 
 
-Activity Diagram : https://docs.google.com/document/d/1WX_gCPD723vb7cBI9G5xiVVd9qZPQaakbW0X-njBCjI/edit
+Activity Diagram : 
+
+![class drawio](https://user-images.githubusercontent.com/52764879/234718156-b529537a-4918-4eb4-b931-ff3eca668f98.png)
+
+
+
+Sequence diagram
+
+![se drawio](https://user-images.githubusercontent.com/52764879/234720176-fb644f9d-f06c-4d3c-83c1-ff46aa2754fb.png)
+
+State diagram
+
+
+![state_diagram](https://user-images.githubusercontent.com/52764879/234721024-8b18c73b-4916-4158-b2b2-9e1139584a4b.png)
+
+Class Diagram
+![class_diagram](https://user-images.githubusercontent.com/52764879/234721429-14c1e173-21a1-4d89-854c-2b3bfa974e49.png)
